@@ -1,3 +1,2 @@
 # google-homepage
-my first repository on github.
-first project woohoo.
+http://www.theodinproject.com/web-development-101/html-css?ref=lnav
