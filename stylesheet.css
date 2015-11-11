@@ -123,6 +123,7 @@ a {text-decoration: none;
  	bottom:0px;
  	font-size: 13px;
  	font-family: Arial;
- 	margin-left: -5px;
+ 	margin-left: -10px;
+ 	border: 0.01px solid #e5e5e5;
 
 }
